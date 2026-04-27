@@ -14,7 +14,7 @@
 
 ## ✨ About Me
 
-I'm **Abdullah Ansari**, a self-taught **Frontend Developer** and **UI/UX Designer** focused on creating interfaces that are not only visually appealing but also intuitive to use.
+I'm **Abdullah Ansari**, a self-taught **Frontend Developer** and **UI/UX Designer** focused on creating interfaces that are visually appealing and intuitive to use.
 
 ### Quick Info
 
@@ -48,7 +48,7 @@ I'm **Abdullah Ansari**, a self-taught **Frontend Developer** and **UI/UX Design
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahansari-dev23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide_rank=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullahansari-dev23&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&hide=contribs" />
 </p>
 
 <p align="center">
