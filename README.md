@@ -71,10 +71,6 @@ I'm **Abdullah Ansari**, a self-taught **Frontend Developer** and **UI/UX Design
   <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-1f1f1f?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
-  <a href="https://instagram.com">
-    <img src="https://img.shields.io/badge/Instagram-1f1f1f?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
 </p>
 
 ---
